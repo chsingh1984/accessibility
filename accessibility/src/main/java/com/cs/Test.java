@@ -3,7 +3,7 @@ package com.cs;
 public class Test {
 
 	public static void main(String[] args) {
-		System.out.println("Testing...tst2");
+		System.out.println("Testing...tst2..check1");
 	}
 
 }
